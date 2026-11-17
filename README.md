@@ -3,6 +3,9 @@
 API RESTful desenvolvida em **Node.js**, **Express** e **Sequelize (MySQL)** para gerenciamento de estoque, ferramentas, materiais de consumo, locais de armazenamento e controle de acesso de usuários de uma subestação de energia.
 
 ---
+🌐 Aplicação em Produção (Deploy)
+Acesse o Sistema Online: https://almoxarifado-spsl.onrender.com
+API Consumida: https://api-almox-spsl.onrender.com
 
 ## 📋 Índice
 
